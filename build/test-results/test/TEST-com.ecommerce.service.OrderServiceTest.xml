@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ecommerce.service.OrderServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-08-01T17:38:42" hostname="LAPTOP-8K6PD1RG" time="0.107">
+  <properties/>
+  <testcase name="updateOrder_NotFound()" classname="com.ecommerce.service.OrderServiceTest" time="0.085"/>
+  <testcase name="deleteOrder()" classname="com.ecommerce.service.OrderServiceTest" time="0.004"/>
+  <testcase name="getOrderById_NotFound()" classname="com.ecommerce.service.OrderServiceTest" time="0.002"/>
+  <testcase name="updateOrder()" classname="com.ecommerce.service.OrderServiceTest" time="0.002"/>
+  <testcase name="getAllOrders()" classname="com.ecommerce.service.OrderServiceTest" time="0.002"/>
+  <testcase name="createOrder()" classname="com.ecommerce.service.OrderServiceTest" time="0.004"/>
+  <testcase name="getOrderById()" classname="com.ecommerce.service.OrderServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
